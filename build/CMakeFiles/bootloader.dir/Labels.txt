@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/CMakeFiles/bootloader
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/CMakeFiles/bootloader.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/CMakeFiles/bootloader-complete.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/diogorroessler/dev/Espressif/IDF/interrupter/IDF/Interruptor/interrupter/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
